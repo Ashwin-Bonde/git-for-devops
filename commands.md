@@ -1,6 +1,6 @@
 # Git Commands Cheat Sheet
 
-- give me in such format that can i copy all the commd
+
   ```bash
   git config --list
   ```
